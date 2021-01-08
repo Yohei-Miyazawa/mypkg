@@ -19,7 +19,14 @@
 
 ・ROS Noetic
 
-# ROSのインストール方法
+# ROS インストール方法
 
-上田准教授のros_setup_scripts_Ubuntu20.04_server
+上田准教授の https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server において
+```
+$ ./step0.bash
+$ ./step1.bash
+```
+を実行することでインストールされる
+
+
 
