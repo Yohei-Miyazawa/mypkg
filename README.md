@@ -25,7 +25,7 @@
 
 ## 実行準備
 
-・ ROS インストール方法
+・ ROS インストール
 
 上田准教授の https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server
 において
@@ -42,7 +42,7 @@ $ cd ~/catkin_ws/src
 $ catkin_init_workspace
 ```
 
-・ パッケージのインストール方法
+・ パッケージのインストール
 ```
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/Yohei-Miyazawa/mypkg.git
