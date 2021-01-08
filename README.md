@@ -27,7 +27,8 @@
 
 ・ ROS インストール方法
 
-上田准教授の https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server において
+上田准教授の https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server
+において
 ```
 $ ./step0.bash
 $ ./step1.bash
