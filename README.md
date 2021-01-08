@@ -29,9 +29,14 @@ $ ./step1.bash
 を実行することでインストールされる
 
 
-# 方法
+# 実行方法
 
-## zik
+### ワークスペースの準備
+```
+$ mkdir -p catkin/src
+$ cd ~/catkin_ws/src
+$ catkin_init_workspace
+```
 
 
 
