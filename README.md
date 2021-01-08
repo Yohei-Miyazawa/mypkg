@@ -19,6 +19,10 @@
 
 ・ROS Noetic
 
+## デモ
+
+デモ動画：https://youtu.be/pT44ypUNl1w　
+
 ## 実行準備
 
 ・ ROS インストール方法
@@ -74,10 +78,13 @@ $ rosrun mypkg twice.py
 $ rostopic echo /twice
 ```
 
-このようにしてデータを取り出すことが出来る
+端末4からデータを取り出すことが出来た
 
-##　ライセンス
+## ライセンス
 
+このリポジトリには以下のライセンスが付与されている
+
+BSD 3-Clause License
 
 
 
